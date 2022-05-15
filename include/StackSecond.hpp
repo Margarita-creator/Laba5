@@ -1,4 +1,4 @@
-//Copyright by Enigma
+//Copyright by Margarita-creator
 
 #ifndef INCLUDE_STACKSECOND_HPP_
 #define INCLUDE_STACKSECOND_HPP_
